@@ -1,0 +1,6 @@
+name: PlayerAPI-Example
+version: 1.0
+author: Patrick15a <patrick15a@myfilehost.de>
+depend: [PlayerAPI]
+
+Main: de.patrick15a.playerAPI.example.Main
